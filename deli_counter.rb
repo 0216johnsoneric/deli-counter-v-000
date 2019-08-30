@@ -30,5 +30,9 @@
 # end
 
 def line(katz_deli)
-  puts "The line is currently empty."
+  if katz_deli.count == 0
+    puts "The line is currently empty."
+  else
+    message = "The line is currently:"
+
 end
