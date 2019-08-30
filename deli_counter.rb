@@ -35,4 +35,5 @@ def line(katz_deli)
   else
     message = "The line is currently:"
 
-end
+  end
+end  
